@@ -1,6 +1,6 @@
 <p align="center">
   --<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="70%">
-  <img src="[![Uploading image.png…]()](https://haowallpaper.com/link/common/file/previewFileImg/15039854329630016)" width="70%">
+  <img src="https://haowallpaper.com/link/common/file/previewFileImg/15039854329630016" width="70%">
   <br><br>
   <samp>
     I'm Omer Quadri :wave:
