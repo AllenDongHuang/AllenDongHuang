@@ -1,6 +1,8 @@
 <p align="center">
-  --<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="70%">
-  <img src="https://haowallpaper.com/link/common/file/previewFileImg/15039854329630016" width="70%">
+  <!--<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="70%"> -->
+  <img src="https://haowallpaper.com/link/common/file/previewFileImg/15039854329630016" width="100%">
+  <img src="https://haowallpaper.com/link/common/file/previewFileImg/1a62cba138a786b8257ce08a760abc61" width="100%">
+  <img src="https://haowallpaper.com/link/common/file/previewFileImg/90fcd3b5ce5e3fbd7d4062605c7f76ea" width="100%">
   <br><br>
   <samp>
     I'm Omer Quadri :wave:
