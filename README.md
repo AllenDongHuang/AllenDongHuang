@@ -17,12 +17,12 @@
 
 <br>
 
-<details>
+<!--<details>-->
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
   
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=AllenDongHuang)](https://github.com/AllenDongHuang/AllenDongHuang)
+  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=AllenDongHuang&show_icons=true&theme=transparent)](https://github.com/AllenDongHuang/AllenDongHuang)
 
 ---
 
@@ -55,7 +55,7 @@
 
 ---
 
-</details>
+<!--</details>-->
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
