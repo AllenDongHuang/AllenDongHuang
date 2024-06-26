@@ -5,13 +5,13 @@
   <img src="https://haowallpaper.com/link/common/file/previewFileImg/90fcd3b5ce5e3fbd7d4062605c7f76ea" width="100%">
   <br><br>
   <samp>
-    I'm Omer Quadri :wave:
+    I'm AllenDongHuang
     <br><br>
-    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
+    I am an Unity developer and independent game producer.
     <br><br>
-    I believe in a world where Milkshakes can solve any and all problems :grin:
+    I enjoy singing, dancing, rap, and basketball.
     <br><br>
-    P.S. I do know that HTML is not a programming language! :v:
+    我喜欢唱跳rap篮球。练习长两年半的独立制作人。
   </samp>
 </p>
 
